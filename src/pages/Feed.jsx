@@ -37,7 +37,7 @@ const Feed = () => {
           <h1>Sponsored</h1>
 
         </div>
-        <h1>Recent Me</h1>
+        <h1>Recent messages</h1>
 
       </div>
     </div>
