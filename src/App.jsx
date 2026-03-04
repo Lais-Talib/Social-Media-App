@@ -14,6 +14,7 @@ import  {Toaster} from 'react-hot-toast'
 
 const App = () => {
   const {user} = useUser()
+  
   return (
     <>
     <Toaster/>
